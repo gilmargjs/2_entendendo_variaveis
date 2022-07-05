@@ -22,7 +22,8 @@
     // escopo local de bloco,pode ter o seu valor alterado se não tiver um valor inicial será tratado como null;
     let varivavel2 = 'gimargjs';
     varivavel2 = 'gilmarjosesilva'
-
+    let variavel3 = 'todos';
+    console.log(variavel3)
     // escopo local de bloco,somente leitura, o valor inicial é obrigatório e não pode ser alterado.
     const nos = "eu";
     console.log(nos)
